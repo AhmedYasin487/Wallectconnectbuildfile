@@ -3,6 +3,8 @@ I used this build file from this project in my django project.
 
 You can see the demo on medium article related to this project.
 
+https://coolahmed21.medium.com/how-to-add-walletconnect-with-django-399bec058566
+
 After downloading the project.You have to run the following commands.
 if you use npm the run the following commands. 
 
