@@ -1,4 +1,6 @@
-This is simple walletconnect app. 
+This is simple walletconnect app. where you will find a build file which is made my webpack and , webpack is completely setup in this project go a head and use that for yourself.
+You can see the demo on medium article related to this project.
+
 After downloading the project.You have to run the following commands.
 if you use npm the run the following commands. 
 
