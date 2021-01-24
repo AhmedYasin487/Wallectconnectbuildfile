@@ -1,4 +1,6 @@
-This is simple walletconnect app. where you will find a build file which is made my webpack and , webpack is completely setup in this project go a head and use that for yourself.
+This is simple walletconnect app. where you will find a build file which is made by webpack and , webpack is completely setup in this project go a head and use that for yourself.
+I used this build file from this project in my django project.
+
 You can see the demo on medium article related to this project.
 
 After downloading the project.You have to run the following commands.
